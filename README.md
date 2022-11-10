@@ -9,10 +9,10 @@ This project developed an end-to-end text classification model utilizing the Kag
 • If you want to view the deployed model, click on the following link:<br />
 Deployed at: _https://spam-sms-detector.herokuapp.com/_
 
-• Please do ⭐ the repository, if it helped you in anyway.
 
-• A glimpse of the web app:
+
+## web app:
 
 ![GIF](readme_resources/spam-sms-web-app.gif)
-
+## [Cloud-App: Heroku](https://spam-ham-detection1.herokuapp.com/)
 ![Heroku-webapp](readme_resources/spam-ham-Heroku.png)
